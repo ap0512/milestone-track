@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/milestone-track/'  // Set the base to your repository name
+  base: '/dist/'  // Set the base to your repository name
 });
